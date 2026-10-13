@@ -1,0 +1,6 @@
+Produto,Quantidade,Valor_Unitario
+Notebook,5,3500
+Celular,12,2500
+Tablet,8,1800
+Fone,25,150
+Carregador,30,80
